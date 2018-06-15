@@ -1,3 +1,7 @@
+## DEPRECATED - no longer maintained
+This app used to be used in [smoke tests](https://github.com/pivotal-cf/cf-rabbitmq-smoke-tests), but it is no longer used or maintained. 
+
+
 ```
 gradle build
 cf create-service p-rabbitmq standard rabbitmq
